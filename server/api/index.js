@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
-const dbConnect = require('./model/database.js');
-const router = require('./router/products.js');
+const dbConnect = require('../model/database.js');
+const router = require('../router/products.js');
 
 const app = express();
 app.use(express.json());
