@@ -7,7 +7,7 @@ export default function Product() {
     const data = location.state;
 
   return (
-    <div className='container d-flex' style={{height:"100vh"}}>
+    <div className='container d-flex row' style={{height:"100vh"}}>
         <div className='col-md-6 col-10 my-auto'>
             <img src={data.image} alt="loading...." className='img-fuid w-75 my-auto h-75'/>
         </div>
