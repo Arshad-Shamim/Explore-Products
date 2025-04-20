@@ -8,10 +8,10 @@ export default function Product() {
 
   return (
     <div className='container d-flex row' style={{height:"100vh"}}>
-        <div className='col-md-6 col-10 my-auto'>
+        <div className='col-md-6 col-10 my-auto mx-auto'>
             <img src={data.image} alt="loading...." className='img-fuid w-75 my-auto h-75'/>
         </div>
-        <div className='col-md-6 col-10 d-flex'>
+        <div className='col-md-6 col-10 d-flex mx-auto'>
             <div className='my-auto'>
                 <h1 className='fw-bold'>{data.name}</h1>
                 <h4>Price :{data.price}</h4>
