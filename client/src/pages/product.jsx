@@ -28,7 +28,7 @@ export default function Product() {
             Availability: <span className="text-blue-500">{data.availability}</span>
           </h4>
           <p className="text-gray-700 text-sm leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis quasi, ea temporibus numquam quia, at vitae iusto impedit, repudiandae nemo harum exercitationem ipsa dolor? Maiores harum accusamus necessitatibus illo sed...
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem eveniet incidunt eum, illum obcaecati sequi debitis! Repellendus sed distinctio, at nulla veniam aspernatur itaque doloremque ab quia quae, recusandae soluta animi modi perspiciatis culpa quam, corporis maxime. Vel nisi, numquam quos corporis quas qui dolorem ex eligendi earum, voluptatum minima assumenda beatae sunt quaerat explicabo consectetur sit corrupti quia. Modi dignissimos, velit autem rem nisi voluptatum explicabo doloremque laboriosam quae!
           </p>
         </div>
 

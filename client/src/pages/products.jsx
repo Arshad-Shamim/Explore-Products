@@ -69,8 +69,8 @@ export default function Products() {
               className="w-full h-48 object-cover" 
             />
             
-            {/* Price tag at top-left */}
-            <div className="absolute top-2 left-2 bg-yellow-400 text-black text-sm font-semibold px-2 py-1 rounded">
+            {/* Price tag with a lighter background */}
+            <div className="absolute top-2 left-2 bg-gray-700 text-white text-sm font-semibold px-2 py-1 rounded">
               ₹{price}
             </div>
           </div>
@@ -110,6 +110,8 @@ export default function Products() {
       </div>
     );
   }
+  
+  
   
 
   return (
