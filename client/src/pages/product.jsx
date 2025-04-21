@@ -7,7 +7,7 @@ export default function Product() {
 
   return (
     <div className="flex justify-center items-center min-h-screen bg-white/70">
-      <div className="w-4/5 h-[80vh] bg-gray-100 rounded-xl shadow-lg p-6 flex flex-col lg:flex-row items-center gap-8 overflow-hidden">
+      <div className="w-[90%] sm:w-[95%] md:w-[90%] lg:w-4/5 min-h-[80vh] bg-gray-100 rounded-xl shadow-lg p-4 lg:p-6 flex flex-col lg:flex-row items-center gap-8 overflow-hidden">
         
         {/* Image Section */}
         <div className="w-full lg:w-1/2 text-left pl-4 flex justify-center items-center">
